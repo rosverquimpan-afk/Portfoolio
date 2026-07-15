@@ -22,30 +22,30 @@ I currently pursuing my collage under Bachelor of Science in Information Systems
 
 # Education Background
 **Bachelor of Science in Information System** <br>
-Davao Del Norte State Collage 2024-Present
++ Davao Del Norte State Collage 2024-Present
 
 **Humanities and Social Sciences(HUMSS)** <br>
-Alejal National High School 2023-2024
++ Alejal National High School 2023-2024
 
 # Work Experiences
 **Cash for Work (CFW) at Davao del Norte State College main campus (2024)** <br>
-Assist Quality Assurance Office staffs and encoding confidential documents
++ Assist Quality Assurance Office staffs and encoding confidential documents
 
 **Family owned sari–sari store (2019 – present)** <br>
-Manage sari-sari store operations and gently handling customers transactions.
++ Manage sari-sari store operations and gently handling customers transactions.
 
 
 # Skills
 
 **Technical skills** <br>
-Video Editing  <br>
-Photo Editing <br>
-Data entry <br> 
++ Video Editing  <br>
++ Photo Editing <br>
++ Data entry <br> 
 
 **Workplace skills** <br>
-Team Work <br>
-Communication  <br>
-Critical Thinking <br>
++ Team Work <br>
++ Communication  <br>
++ Critical Thinking <br>
 
 
 # Contact me
