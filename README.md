@@ -37,21 +37,19 @@ Manage sari-sari store operations and gently handling customers transactions.
 
 # Skills
 
-Technical skills
-Video Editing 
-Photo Editing
-Data entry
+**Technical skills** <br>
+Video Editing  <br>
+Photo Editing <br>
+Data entry <br> 
 
-Workplace skills
-Team Work
-Communication 
-Critical Thinking
+**Workplace skills** <br>
+Team Work <br>
+Communication  <br>
+Critical Thinking <br>
 
 
 # Contact me
 
-<img width="20" height="20" alt="icons8-location-pin-50" src="https://github.com/user-attachments/assets/4d478182-0294-482d-8e49-f6c63b8c5179" /> Carmen, Davao del Norte, Philippines
- <br>
  <img width="20" height="20" alt="icons8-gmail-50" src="https://github.com/user-attachments/assets/f9bb7298-c268-49be-9414-d6a391acd98a" /> rosverquimpan@gmail.com
 <br>
  <img width="20" height="20" alt="icons8-phone-call-64" src="https://github.com/user-attachments/assets/23ffb7f3-e91d-4ebb-986a-e50d3448b90c" /> 09658241810
